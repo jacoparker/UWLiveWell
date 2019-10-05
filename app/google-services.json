@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030363717997",
+    "firebase_url": "https://uwlivewell-9f3fa.firebaseio.com",
+    "project_id": "uwlivewell-9f3fa",
+    "storage_bucket": "uwlivewell-9f3fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030363717997:android:85f3dc5f45b0670ea07a64",
+        "android_client_info": {
+          "package_name": "com.example.uwlivewell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030363717997-2qklnvupdbhncqbcr9diqlir4g1rklo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uwlivewell",
+            "certificate_hash": "3bbfdbba28a578b754f2145dd7b4799926386301"
+          }
+        },
+        {
+          "client_id": "1030363717997-oojpobgos0k1rqfol3me6ba3u6rs5k1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYC2s0KJHMldML1dYBECI92SGRwHL1psA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030363717997-oojpobgos0k1rqfol3me6ba3u6rs5k1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
